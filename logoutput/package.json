@@ -1,0 +1,15 @@
+{
+  "name": "logoutput",
+  "version": "1.0.0",
+  "description": "A simple program that generates a random hash at startup and logs it every 5 seconds.",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

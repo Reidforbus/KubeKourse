@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: logoutput
-          image: reidforbus/logoutput:1.1
+          image: reidforbus/logoutput:1.7
