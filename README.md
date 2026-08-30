@@ -12,3 +12,4 @@ Submissions for HY DevOps with Kubernetes course exercises
 - [1.5 The project, step 3](https://github.com/Reidforbus/KubeKourse/tree/1.5/todoapp)
 - [1.6 The project, step 4](https://github.com/Reidforbus/KubeKourse/tree/1.6/todoapp)
 - [1.7. External access with Ingress](https://github.com/Reidforbus/KubeKourse/tree/1.7/logoutput)
+- [1.8 The project, step 5](https://github.com/Reidforbus/KubeKourse/tree/1.8/todoapp)
