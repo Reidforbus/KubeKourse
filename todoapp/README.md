@@ -4,6 +4,7 @@
 
 ### Kubernetes
 
+Make sure you have port 80 on the load balancer open.
 You can run the server by applying the manifest files in `./manifests` with
 
 ```bash
@@ -28,4 +29,4 @@ bun run index.ts
 
 ## Configuration
 
-The listening port can be set with the `PORT` env variable. The default port is 3001.
+The listening port of the express app can be set with the `PORT` env variable. The default port is 3001.
