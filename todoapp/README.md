@@ -2,7 +2,13 @@
 
 ## Usage
 
-You need to have `bun` installed to run the app.
+### Docker
+
+You can run the server using docker with `docker run -p <PORT>:3001 reidforbus/todoapp:1.2`
+
+### Bun
+
+This project was created using `bun init` in bun v1.4.0. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
 
 To install dependencies:
 
@@ -16,6 +22,6 @@ To run:
 bun run index.ts
 ```
 
-The listening port can be set with the `PORT` env variable. The default port is 3001.
+## Configuration
 
-This project was created using `bun init` in bun v1.4.0. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+The listening port can be set with the `PORT` env variable. The default port is 3001.
