@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: todoapp
-          image: reidforbus/todoapp:1.2
+          image: reidforbus/todoapp:1.5
