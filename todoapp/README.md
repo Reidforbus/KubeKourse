@@ -2,9 +2,13 @@
 
 ## Usage
 
-### Docker
+### Kubernetes
 
-You can run the server using docker with `docker run -p <PORT>:3001 reidforbus/todoapp:1.2`
+You can run the server by applying the manifest files in `./manifests` with
+
+```bash
+kubectl apply -f manifests
+```
 
 ### Bun
 

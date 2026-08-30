@@ -8,3 +8,4 @@ Submissions for HY DevOps with Kubernetes course exercises
 - [1.1 Getting started](https://github.com/Reidforbus/KubeKourse/tree/1.1/logoutput)
 - [1.2 The project, step 1](https://github.com/Reidforbus/KubeKourse/tree/1.2/todoapp)
 - [1.3 Declarative approach](https://github.com/Reidforbus/KubeKourse/tree/1.3/logoutput)
+- [1.4 The project, step 2](https://github.com/Reidforbus/KubeKourse/tree/1.4/todoapp)
