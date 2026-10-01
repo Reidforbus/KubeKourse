@@ -2,7 +2,7 @@ const express = require("express")
 
 const app = express()
 const hash = crypto.randomUUID()
-const port = 8000
+const port = 8002
 
 const stamp = (msg) => {
   const timestamp = new Date()

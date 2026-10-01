@@ -2,10 +2,12 @@ FROM node:alpine
 
 WORKDIR /usr/src/app
 
-COPY . ./
+COPY package.json ./
+COPY package-lock.json ./
+COPY index.js ./
 
 RUN npm ci
 
-EXPOSE 8002
+EXPOSE 8003
 
 CMD ["node", "index.js"]

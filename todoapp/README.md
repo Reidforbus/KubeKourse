@@ -29,4 +29,4 @@ bun run index.ts
 
 ## Configuration
 
-The listening port of the express app can be set with the `PORT` env variable. The default port is 3001.
+The listening port of the express app can be set with the `PORT` env variable. The default port is 8001.

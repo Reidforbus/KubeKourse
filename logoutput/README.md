@@ -1,6 +1,6 @@
 # Log Output
 
-A simple program that generates a random hash at startup and logs it every 5 seconds. The current state is also served at port 8000.
+A simple program that generates a random hash at startup and logs it every 5 seconds. The current state is also served at port 8002.
 
 ## Usage
 
