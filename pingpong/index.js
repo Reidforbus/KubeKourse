@@ -4,7 +4,7 @@ const port = 8003
 
 var counter = 0
 
-app.get("/", (_req, res) => {
+app.get("/pingpong", (_req, res) => {
   res.send(`pong ${counter}`)
   counter += 1
 })
